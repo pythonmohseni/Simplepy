@@ -1,6 +1,9 @@
 def plus(num):
     return num + 1
 
+def minus(num):
+    return num - 1
+
 def equal(var1,var2):
     if var1 == var2:
         return True
